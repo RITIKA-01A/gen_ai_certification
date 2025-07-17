@@ -1,1 +1,1 @@
-# gen_ai_certification
+# Completed the Generative AI Job Simulation by Forage, where I explored real-world applications of GenAI, including prompt engineering, text generation, and responsible AI use. Gained practical skills simulating tasks performed by AI professionals in industry setting.
